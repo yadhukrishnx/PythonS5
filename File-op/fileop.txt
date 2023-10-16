@@ -1,0 +1,2 @@
+Opening files in w mode will override everytime when we write into it , opening in a mode will not overrider existing data 
+both  w  and  a  mode creates file if it doesnot existThis line is added by appending
